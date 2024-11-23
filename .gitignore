@@ -1,0 +1,5 @@
+#Ignore these Files: 
+wifizer.ps1
+
+#Ignore These Folders: 
+# ./Folder/
